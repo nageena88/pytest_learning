@@ -6,11 +6,11 @@
         "-v"
     ],
     "cSpell.words": [
-        "autofetch",
-        "Pylance",
         "aedtresults",
         "aedtz",
         "archiver",
+        "atitude",
+        "autofetch",
         "autouse",
         "aview",
         "brosesdm",
@@ -37,6 +37,7 @@
         "PREONLAB",
         "prscence",
         "prscene",
+        "Pylance",
         "pyproject",
         "pytest",
         "rglob",
