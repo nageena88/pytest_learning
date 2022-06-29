@@ -18,7 +18,7 @@ def test_csv_reader_header_fields(process_data):
     Happy Path test to make sure the processed data
     contains the right header fields
     """
-    # helper function imported from conftest.py to import file data with our csv reader
+    # helper function imported from conftest.py to import file data with our csv reader # noqa: E501
     data = process_data
     header_fields = list(data[0].keys())
     assert header_fields == [
