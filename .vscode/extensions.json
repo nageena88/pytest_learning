@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "streetsidesoftware.code-spell-checker",
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
+        "ms-toolsai.jupyter",
+        "ms-python.python",
+        "njpwerner.autodocstring",
+        "gruntfuggly.todo-tree",
+        "pkief.material-icon-theme",
+        "yzhang.markdown-all-in-one",
+        "ms-python.vscode-pylance"
+    ]
+}
