@@ -15,7 +15,7 @@ requirements = []
 
 if __name__ == "__main__":
     setup(
-        name="python_unit_testing_in_docker",
+        name="pytest_learning",
         version=version,
         description="Pytest Configuration Example",
         long_description=long_description,
@@ -26,7 +26,7 @@ if __name__ == "__main__":
             ],
             include=["scripts", "utils"],
         ),
-        license="MIT",
+        license="None",
         install_requires=requirements,
         classifiers=[
             "Development Status :: 1 - Planning",
