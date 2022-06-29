@@ -1,4 +1,4 @@
-FROM python:3.7.6-buster
+FROM python:3.7.6
 MAINTAINER nageena88
 
 RUN mkdir /pytest_project/
